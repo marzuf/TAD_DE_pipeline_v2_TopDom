@@ -103,7 +103,7 @@ gene2tadAssignMethod <- "startPos"
 step8_for_permutGenes <- TRUE
 step8_for_randomTADsFix <- FALSE
 step8_for_randomTADsGaussian <- FALSE
-step8_for_randomTADsShuffle <- TRUE
+step8_for_randomTADsShuffle <- FALSE
 
 ########################################################
 ### number of TADs to select for plotting                   => STEP 13
@@ -122,7 +122,7 @@ step14_for_randomTADsGaussian <- FALSE
 ########################################################
 ### for the plot with the area                              => STEP 14i
 ########################################################
-step14_for_randomTADsShuffle <- TRUE
+step14_for_randomTADsShuffle <- FALSE
 
 ########################################################
 ### which ratios to compute                                 => STEPS 8c, 12c, 14c, 17c
